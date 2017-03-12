@@ -1,0 +1,15 @@
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/.sbtserver
+/RUNNING_PID
+/_deploy_backup
+/activator
+/activator-launch-1.3.7.jar
+*.DS_Store
+project/project/
+project/target/
